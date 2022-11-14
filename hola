@@ -1,0 +1,3 @@
+# Printing the message "Hola mundo!"
+message = "Hola mundo!"
+print(message)
